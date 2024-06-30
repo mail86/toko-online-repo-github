@@ -129,11 +129,18 @@
 .box .col-7 h4 {
 	margin:25px 0;
 }
-footer {
+.footer {
 	padding:30px 0;
 	background-color: blue;
 	color: green;
 	text-align: center;
+.footer .credit a {
+  color: aqua;
+  font-weight: 700;
+}
+.footer .credit p {
+  color: red;
+  font-weight: 700;	
 }
 
 .label {
@@ -227,4 +234,5 @@ color: white;
 text-align: center;
 margin-bottom: 1px;
 font-size: large;
+background-color: pink;	
 }
