@@ -129,16 +129,16 @@
 .box .col-7 h4 {
 	margin:25px 0;
 }
-.footer {
+footer {
 	padding:30px 0;
 	background-color: blue;
 	color: green;
 	text-align: center;
-.footer .credit a {
+footer .credit a {
   color: aqua;
   font-weight: 700;
 }
-.footer .credit p {
+footer .credit p {
   color: red;
   font-weight: 700;	
 }
@@ -157,7 +157,7 @@ margin: 100px;
 .body {
 margin:0; 
 font-family: sans-serif;
-background-color: #FF7476;
+background-color: pink;
     
 }
 .gambar {
@@ -234,5 +234,4 @@ color: white;
 text-align: center;
 margin-bottom: 1px;
 font-size: large;
-background-color: pink;	
 }
