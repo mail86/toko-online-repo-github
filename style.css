@@ -29,7 +29,7 @@
 	color: purple;
 }
 .navbar ul {
-	margin: 10px;
+	margin: 40px;
 	display: flex;
         justify-content: center; 
         align-items: center;
@@ -42,9 +42,6 @@
 .navbar ul li a {
 	padding:20px 20px;
         margin: 10px
-	display: flex;
-        justify-content: center; 
-        align-items: center;
 	transition: 0.5s;
 	border: 1px solid blue;
 	border-radius: 9px;
@@ -67,9 +64,10 @@ background-color: blue;
     
 }
 .active a:hover {
-    background-color: red;
+    background-color: aqua;
     border-radius: 15px;
-    border:1px solid red; 
+    border:1px solid red;
+    transition: 0.5s;
 }
 
 .about,
