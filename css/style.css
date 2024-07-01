@@ -114,8 +114,8 @@ body {
 
 }
 .hero .content img {
-  hight: 100px;
-  width: 100px;
+  hight: 200px;
+  width: 200px;
   align-item: center;
   display: grid;
   grid-template-columns: 1, 1fr;
