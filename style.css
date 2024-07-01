@@ -137,11 +137,11 @@ footer {
 }
 footer .credit a {
   color: aqua;
-  font-weight: 700;
+  font-weight: 300;
 }
 footer .credit p {
   color: red;
-  font-weight: 700;	
+  font-weight: 300;	
 }
 
 .label {
