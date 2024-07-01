@@ -138,10 +138,12 @@ footer {
 footer .credit a {
   color: aqua;
   font-weight: 300;
+  font-size: small;
 }
 footer .credit p {
   color: red;
-  font-weight: 300;	
+  font-weight: 300;
+ font-size: small;	
 }
 
 .label {
