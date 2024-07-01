@@ -38,6 +38,13 @@
 	padding:25px 20px;
 	display: inline-block;
 	transition: 0.5s;
+	border: 1px solid blue;
+	border-radius: 9px;
+	background: yellow;
+}
+.navbar .beta {
+background-color: red;
+	width: 80px;	
 }
 
 }
@@ -156,7 +163,7 @@ font-size: 1;
 margin: 100px;       
 }
 
-.body {
+body {
 margin:0; 
 font-family: sans-serif;
 background-color: pink;	
