@@ -117,6 +117,8 @@ body {
   hight: 100px;
   width: 100px;
   align-item: center;
+  display: grid;
+  grid-template-columns: 1, 1fr;
 }
 
 .hero .content h1 {
