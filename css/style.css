@@ -119,7 +119,7 @@ body {
   align-item: center;
   display: grid;
   grid-template-columns: 1, 1fr;
-  float: right;
+  float: left;
   margin: 5px;
 }
 
