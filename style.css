@@ -135,12 +135,12 @@ footer {
 	text-align: center;
 	margin-top: 3rem;
 }
-footer .credit a {
+footer credit a {
   color: aqua;
   font-weight: 300;
   font-size: small;
 }
-footer .credit p {
+footer credit p {
   color: red;
   font-weight: 300;
  font-size: small;	
