@@ -158,7 +158,7 @@ margin:0;
 font-family: sans-serif;
     
 }
-gambar {
+.gambar {
     grid-gap: 20px;
     margin: 80px;
     align-items: center;
@@ -167,7 +167,7 @@ gambar {
     
 
 } 
-gambar .foto img{
+.gambar .foto img{
     border-radius: 34px;
     object-fit: cover;
     box-shadow: 10px 5px 5px 0px black;
@@ -179,11 +179,11 @@ gambar .foto img{
     
 }
    
-foto {
+.foto {
     border:1px greenyellow; 
     margin:10px; 
     text-align: center;}
-foto:hover{
+.foto:hover{
     
     transform: scale(4.1);  
 }
@@ -194,7 +194,7 @@ foto:hover{
     
 }
 
-foto a{
+.foto a{
     border:1px solid blue; 
     padding:10px; color: white; 
     background: #00C403;  
@@ -203,7 +203,7 @@ foto a{
     cursor: pointer;
 }
 
-foto {
+.foto {
     margin:10px;
     border-radius: 34px;
     width: 300px;
@@ -212,11 +212,11 @@ foto {
 }
  
 
-foto p {
+.foto p {
 	color:#FF7476;
 }
 
-foto h2 {
+.foto h2 {
 	color:#505050 ;
 }
 
