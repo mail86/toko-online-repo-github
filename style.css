@@ -36,8 +36,10 @@
 }
 .navbar ul li a {
 	padding:25px 20px;
-	text-align: center;
-	margin-top: 7rem;
+	display: flex;
+        height: 100px;
+        justify-content: center; 
+        align-items: center;
 	transition: 0.5s;
 	border: 1px solid blue;
 	border-radius: 9px;
