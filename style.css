@@ -37,16 +37,16 @@
 .navbar ul li a {
 	padding:25px 20px;
 	text-align: center;
-	margin-top: 3rem;
+	margin-top: 7rem;
 	transition: 0.5s;
 	border: 1px solid blue;
 	border-radius: 9px;
 	background: yellow;
-	color: blue;
+	color: white;
 }
 .navbar .beta a {
-background-color: white;
-	color: blue;
+background-color: blue;
+	color: white;
 	width: 80px;	
 }
 
@@ -60,7 +60,7 @@ background-color: white;
     
 }
 .active a:hover {
-    background-color: green;
+    background-color: red;
     border-radius: 15px;
     border:1px solid red; 
 }
@@ -195,7 +195,7 @@ background-color: pink;
 }
 .foto:hover{
     
-    transform: scale(3.1);  
+    transform: scale(2.1);  
 }
 .foto a:hover {
 	background-color: yellow;
