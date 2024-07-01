@@ -33,6 +33,10 @@
 }
 .navbar ul li {
 	display: inline-block;
+	margin: 5px;
+	display: flex;
+        justify-content: center; 
+        align-items: center;
 }
 .navbar ul li a {
 	padding:20px 20px;
@@ -44,7 +48,7 @@
 	border: 1px solid blue;
 	border-radius: 9px;
 	background: yellow;
-	color: white;
+	color: red;
 }
 .navbar .beta a {
 background-color: blue;
