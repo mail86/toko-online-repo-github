@@ -29,14 +29,14 @@
 	color: purple;
 }
 .navbar ul {
-	float: right;
-}
-.navbar ul li {
-	display: inline-block;
 	margin: 5px;
 	display: flex;
         justify-content: center; 
         align-items: center;
+}
+.navbar ul li {
+	display: inline-block;
+	
 }
 .navbar ul li a {
 	padding:20px 20px;
