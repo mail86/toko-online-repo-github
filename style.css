@@ -44,21 +44,22 @@
 	background: yellow;
 }
 .navbar .beta a {
-background-color: red;
+background-color: white;
+	color: red;
 	width: 80px;	
 }
 
 }
 .active {
-    background-color: greenyellow;
-    color: #fff;
+    background: blue;
+    color: white;
     border-radius: 15px;
     border:1px solid red;
     
     
 }
 .active a:hover {
-    background-color: #FF74;
+    background-color: green;
     border-radius: 15px;
     border:1px solid red; 
 }
