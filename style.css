@@ -33,15 +33,15 @@
 	display: flex;
         justify-content: center; 
         align-items: center;
-	margin-top: 4rem;
 }
 .navbar ul li {
 	display: inline-block;
+	margin-top: 4rem;
 	
 }
 .navbar ul li a {
 	padding:20px 20px;
-        margin: 5px;
+       margin-top: 4rem;
 	display: flex;
         justify-content: center; 
         align-items: center;
