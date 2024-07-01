@@ -119,6 +119,8 @@ body {
   align-item: center;
   display: grid;
   grid-template-columns: 1, 1fr;
+  float: right;
+  margin: 5px;
 }
 
 .hero .content h1 {
