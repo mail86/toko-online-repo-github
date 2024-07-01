@@ -51,7 +51,7 @@
 	color: red;
 }
 .navbar .beta a {
-	color: blue;
+	color: red;
 	font-size: large;
 	text-align: center;
 }
@@ -69,7 +69,8 @@
     background-color: aqua;
     border-radius: 15px;
     border:1px solid red;
-    transition: 0.5s;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
 }
 
 .about,
