@@ -51,9 +51,9 @@
 	color: red;
 }
 .navbar .beta a {
-background-color: blue;
 	color: white;
-	width: 80px;	
+	width: 80px;
+	font-size: large;
 }
 
 }
