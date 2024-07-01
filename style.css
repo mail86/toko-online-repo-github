@@ -36,13 +36,14 @@
 }
 .navbar ul li a {
 	padding:25px 20px;
-	display: inline-block;
+	display: block;
+	margin: auto;
 	transition: 0.5s;
 	border: 1px solid blue;
 	border-radius: 9px;
 	background: yellow;
 }
-.navbar .beta {
+.navbar .beta a {
 background-color: red;
 	width: 80px;	
 }
