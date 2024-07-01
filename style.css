@@ -49,11 +49,13 @@
 	border-radius: 9px;
 	background: yellow;
 	color: red;
+	text-decoration: none;
 }
 .navbar .beta a {
 	color: red;
 	font-size: large;
 	text-align: center;
+	text-decoration: none;
 }
 
 }
