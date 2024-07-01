@@ -113,6 +113,10 @@ body {
   max-width: 60rem;
 
 }
+.hero .content img {
+  hight: 50px;
+  width: 50px;
+}
 
 .hero .content h1 {
   font-size: 5em;
