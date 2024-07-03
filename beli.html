@@ -17,12 +17,27 @@
 			<img src="img2/Img29.jpg"></img>
 
 			<ul>
-				<li><a href="index.html">HOME</a></li>
+				<audio id="Audio" src="Eren.mp3" type="audio/mp3"></audio>
+
+<div id="box">
+ <div class="id">
+				
+				<li><a onClick="togglePlay()"><button type="button">MUSIK</button></a></li>
 				<li class="active"><a href="Tes.html">PESAN DISINI</a></li>
 				<li class="beta"><img src="tlp.png"><a href="Tlp.html">TELEPHONE</a></li>
+ </div>
+</div>
 			</ul>
 		</div>
 	</nav>
+	<script type="text/javascript">
+var myAudio = document.getElementById("Audio");
+var isPlaying = false;
+function togglePlay() {
+myAudio.play();
+terakhir = document.querySelector('#box'); terakhir.classList.add('hide');
+  };
+</script>
 
 	<!-- label -->
 	<section class="label">
